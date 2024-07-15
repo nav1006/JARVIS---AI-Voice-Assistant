@@ -5,3 +5,6 @@ wikipedia
 pyautogui
 psutil
 pyjokes
+ollama
+langchain-community
+langchain
